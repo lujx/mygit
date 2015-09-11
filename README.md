@@ -1,0 +1,2 @@
+# mygit
+Base Git Project
